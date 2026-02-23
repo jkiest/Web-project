@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.home{
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+}
+.blog{
+    border-style: solid;
+    border-width: 3px;
+    border-color: yellow;
+}
+.contact{
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+}
+.footer{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+    display: grid;
+    grid-template-rows: auto auto 1fr;
+    gap: 5px;
+}
+.my-pofolio{
+    border-style: solid;
+    border-width: 3px;
+    border-color: orange;
+}
+.img{
+margin-top: -0.25rem !important;
+height: auto;
+width: auto;
+}
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
